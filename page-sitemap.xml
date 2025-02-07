@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-05T21:51:47+00:00</lastmod>
+		<lastmod>2025-02-06T18:16:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/authorized-dealer.jpeg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/40-ft-container-1-1024x580.webp</image:loc>
 		</image:image>
@@ -20,84 +23,84 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/decatur/</loc>
-		<lastmod>2025-02-06T02:02:48+00:00</lastmod>
+		<loc>/auburn/</loc>
+		<lastmod>2025-02-07T00:33:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/hoover/</loc>
-		<lastmod>2025-02-06T02:02:47+00:00</lastmod>
+		<loc>/decatur/</loc>
+		<lastmod>2025-02-07T00:33:32+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/dothan/</loc>
-		<lastmod>2025-02-06T02:02:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/auburn/</loc>
-		<lastmod>2025-02-06T02:02:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/huntsville/</loc>
-		<lastmod>2025-02-06T02:02:46+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/mobile/</loc>
-		<lastmod>2025-02-06T02:02:46+00:00</lastmod>
+		<lastmod>2025-02-07T00:33:31+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/tuscaloosa/</loc>
-		<lastmod>2025-02-06T02:02:46+00:00</lastmod>
+		<lastmod>2025-02-07T00:33:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/montgomery/</loc>
-		<lastmod>2025-02-06T02:02:45+00:00</lastmod>
+		<loc>/hoover/</loc>
+		<lastmod>2025-02-07T00:33:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/millbrook/</loc>
-		<lastmod>2025-02-06T02:02:45+00:00</lastmod>
+		<loc>/huntsville/</loc>
+		<lastmod>2025-02-07T00:33:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/mobile/</loc>
+		<lastmod>2025-02-07T00:33:29+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/mountain-brook/</loc>
-		<lastmod>2025-02-06T02:02:45+00:00</lastmod>
+		<lastmod>2025-02-07T00:33:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/bessemer/</loc>
-		<lastmod>2025-02-06T02:02:44+00:00</lastmod>
+		<loc>/montgomery/</loc>
+		<lastmod>2025-02-07T00:33:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/millbrook/</loc>
+		<lastmod>2025-02-07T00:33:27+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/phenix-city/</loc>
-		<lastmod>2025-02-06T02:02:44+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/prichard/</loc>
-		<lastmod>2025-02-06T02:02:43+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/enterprise/</loc>
-		<lastmod>2025-02-06T02:02:43+00:00</lastmod>
+		<lastmod>2025-02-07T00:33:27+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/opelika/</loc>
-		<lastmod>2025-02-06T02:02:43+00:00</lastmod>
+		<lastmod>2025-02-07T00:33:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/gadsden/</loc>
-		<lastmod>2025-02-06T02:02:42+00:00</lastmod>
+		<loc>/bessemer/</loc>
+		<lastmod>2025-02-07T00:33:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/prichard/</loc>
+		<lastmod>2025-02-07T00:33:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/enterprise/</loc>
+		<lastmod>2025-02-07T00:33:25+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/vestavia-hills/</loc>
-		<lastmod>2025-02-06T02:02:42+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/birmingham/</loc>
-		<lastmod>2025-02-06T02:02:41+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/madison/</loc>
-		<lastmod>2025-02-06T02:02:41+00:00</lastmod>
+		<lastmod>2025-02-07T00:33:24+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/florence/</loc>
-		<lastmod>2025-02-06T02:02:41+00:00</lastmod>
+		<lastmod>2025-02-07T00:33:23+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/gadsden/</loc>
+		<lastmod>2025-02-07T00:33:23+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/madison/</loc>
+		<lastmod>2025-02-07T00:33:22+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/birmingham/</loc>
+		<lastmod>2025-02-07T00:33:22+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rentals/</loc>
